@@ -1,2 +1,8 @@
 # Israel-Alert-History-Website
-A Website in js that will show you the amount of alerts in the 24 hours used pikod horef api 
+Git clone https://github.com/stoHatol/Israel-Alert-History-Website
+
+Install Libs: 
+npm init -y
+npm install express request-promise
+
+And run node .
